@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Bommerla</h1>
-<h3 align="center">Aspiring Software Development Engineer (Backend)</h3>
+<h3 align="center">Software Development Engineer (Backend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinbommerla&label=Profile%20views&color=0e75b6&style=flat" alt="nithinbommerla" /> </p>
 
